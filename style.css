@@ -1,0 +1,22 @@
+body{
+    color:rgb(0, 9, 128)
+   
+}
+body{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-size: 500% 800%;
+}
+.font{
+    
+    font-weight: 900 !important;
+    color: #000000  ;
+}
+
+p{  
+    color:#123cf8;
+    font-weight: 900;
+}
+#style{
+    text-decoration: underline;
+    color: #500947;
+}
